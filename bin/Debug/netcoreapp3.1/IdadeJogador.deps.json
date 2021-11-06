@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IdadeJogador/1.0.0": {
+        "runtime": {
+          "IdadeJogador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IdadeJogador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

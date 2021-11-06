@@ -1,0 +1,13 @@
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.exe
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.deps.json
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.runtimeconfig.json
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.runtimeconfig.dev.json
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.dll
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\bin\Debug\netcoreapp3.1\IdadeJogador.pdb
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.AssemblyInfoInputs.cache
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.AssemblyInfo.cs
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.dll
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.pdb
+D:\DESENVOLVIMENTO\Imersao_Logica\IdadeJogador\obj\Debug\netcoreapp3.1\IdadeJogador.genruntimeconfig.cache
